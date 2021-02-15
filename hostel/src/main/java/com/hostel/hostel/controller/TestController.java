@@ -9,6 +9,7 @@ public class TestController {
 	@GetMapping("/hostel")
 	public String getHostelDetails() {
 		return "My hostel is going to start..";
+
 	}
 
 }
